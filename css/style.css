@@ -1,0 +1,27 @@
+.computer-li{
+    margin-left:50px;
+}
+/*coding for background-image start here*/
+.mask{
+    background-color:rgb(20 18 18 / 90%);
+}
+@media screen and (min-width:1140px) and (max-width:2000px){
+ .my-image{
+     margin-top:-120px;
+ }   
+}
+/*coding for background-image-end here*/
+@media screen and (min-width:100px) and (max-width:400px){
+    .my-image{
+        height:320px;
+        margin-top:0px;
+    }
+}
+
+body{
+    background-color:#F5F5F5;
+}
+.card{
+    margin-top:20px;
+    border-bottom:solid 10px #f93154 !important;
+}
